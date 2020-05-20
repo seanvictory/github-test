@@ -3,6 +3,3 @@ This is just a test to see if this worked properly.
 This is an edit from the online editor. Add "This worked! to line 5 if I am able to edit from terminal"
 
 THIS WORKED!
-
-
-Edit: Trying to make this work again using VS Code.
